@@ -1,5 +1,5 @@
 [Background]
-Color=44,44,44
+Color=15,15,15
 
 [BackgroundFaint]
 Color=49,54,59
@@ -91,5 +91,5 @@ Color=252,252,252
 [General]
 Blur=true
 Description=Akava
-Opacity=0.4
+Opacity=0.6
 Wallpaper=
